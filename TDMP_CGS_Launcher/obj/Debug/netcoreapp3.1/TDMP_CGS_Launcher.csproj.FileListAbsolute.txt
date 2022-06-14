@@ -1,0 +1,14 @@
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.csproj.AssemblyReference.cache
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.AssemblyInfoInputs.cache
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.AssemblyInfo.cs
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.exe
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.deps.json
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.runtimeconfig.json
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.runtimeconfig.dev.json
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.dll
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\bin\Debug\netcoreapp3.1\TDMP_CGS_Launcher.pdb
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.dll
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.pdb
+C:\Users\Carles\source\repos\TDMP_CGS_Patch\TDMP_CGS_Launcher\obj\Debug\netcoreapp3.1\TDMP_CGS_Launcher.genruntimeconfig.cache
